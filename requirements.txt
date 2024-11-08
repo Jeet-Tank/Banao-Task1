@@ -1,0 +1,9 @@
+pip~=24.2
+attrs~=24.2.0
+PySocks~=1.7.1
+Jinja2~=3.1.4
+packaging~=24.1
+typing_extensions~=4.12.2
+pandas~=2.2.3
+selenium~=4.26.1
+webdriver-manager~=4.0.2
